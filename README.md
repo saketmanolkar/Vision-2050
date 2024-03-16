@@ -2,7 +2,7 @@
 
   Full Report - https://github.com/saketmanolkar/Vision-2050/blob/main/Vision%202050.pdf
   
-  Data set - https://github.com/saketmanolkar/Vision-2050/tree/main/data
+  Data sets - https://github.com/saketmanolkar/Vision-2050/tree/main/data
   
   Python Scripts - https://github.com/saketmanolkar/Vision-2050/tree/main/scripts
   
